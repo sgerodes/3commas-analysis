@@ -130,3 +130,6 @@ dmypy.json
 
 # Intelij
 .idea/
+
+# history_files
+resources/history_files/
